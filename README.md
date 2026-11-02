@@ -1,10 +1,10 @@
 # Ralph Koterwa
 
-Technology leader in Calgary who still builds. By day I lead technology delivery and business systems (Salesforce, ERP, internal platforms). On my own time I build software with AI-assisted development.
+Business systems leader in Calgary. By day I lead Salesforce, ERP and integration initiatives. On my own time I build software with AI-assisted development.
 
 **Building**
 
-- [LandTheCall](https://landthecall.com): tailors your resume and cover letter to each job posting, with nothing invented. Made by [Pinecode](https://pinecode.ca).
+- [LandTheCall](https://landthecall.com): an AI-assisted resume and cover-letter tailoring product. Made by [Pinecode](https://pinecode.ca).
 
 **Open source**
 
